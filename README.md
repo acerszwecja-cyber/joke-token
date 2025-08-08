@@ -36,5 +36,6 @@ See `JOKE_icon.txt` – a symbolic icon for the project:
 ---
 
 This project is open-source. Copy it, share it, laugh, and spread the joy with your friends!
+https://pancakeswap.finance/swap?outputCurrency=0x41d2534bdb5e89f6249073e64f6e243b78fb2bfd
 
 Made with ❤️ and humor.
